@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/shshtwy/ScormTimer.git
+   git clone https://github.com/shshtwy/scorm_timer.git
    cd ScormTimer
    ```
 2. Install dependencies:
